@@ -10,4 +10,12 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <EditorConfigFiles Remove="D:\Documentos\Aulas\C_SHARP\Asp.Net\netWeb_Api\WantWeb\src\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="D:\Documentos\Aulas\C_SHARP\Asp.Net\netWeb_Api\WantWeb\src\.editorconfig" />
+  </ItemGroup>
+
 </Project>
